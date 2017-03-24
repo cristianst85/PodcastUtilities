@@ -175,7 +175,7 @@ namespace PodcastUtilities.PortableDevices
         /// <filterpriority>1</filterpriority>
         public override bool CanSeek
         {
-            get { return true; }
+            get { return false; }
         }
 
         /// <summary>
